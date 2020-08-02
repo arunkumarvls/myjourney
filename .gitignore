@@ -1,0 +1,10 @@
+.classpath
+.settings/
+.project
+target/
+bin/
+false.0
+.idea
+myjourney.iml
+test-output/
+/.metadata/
